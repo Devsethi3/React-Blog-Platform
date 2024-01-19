@@ -1,0 +1,86 @@
+export const blogList = [
+  {
+    id: 1,
+    title: "7 CSS tools you should be using ",
+    category: "development",
+    subCategory: ["frontend", "ui/ux", "design"],
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.",
+    authorName: "Noah Ramirez",
+    authorAvatar: "/images/author-1.jpg",
+    createdAt: "Oct 23, 2023",
+    cover: "/images/blog-1.jpg",
+  },
+  {
+    id: 2,
+    title: "Places That Highlight The City",
+    category: "travel",
+    subCategory: ["vacation", "holidays", "sight seeing"],
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.",
+    authorName: "Jackson Mitchell",
+    authorAvatar: "/images/author-4.jpg",
+    createdAt: "June 03, 2023",
+    cover: "/images/blog-2.jpg",
+  },
+  {
+    id: 3,
+    title: "Online Shopping in the Mall",
+    category: "shopping",
+    subCategory: ["e-commerce store", "clothing", "shopping store"],
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.",
+    authorName: "Lucas Foster",
+    authorAvatar: "/images/author-3.jpg",
+    createdAt: "Sept 21, 2023",
+    cover: "/images/blog-3.jpg",
+  },
+  {
+    id: 4,
+    title: "ADVENTURE IN YOU",
+    category: "adventure",
+    subCategory: ["adrenaline", "stay-fit", "lifestyle"],
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.",
+    authorName: "Liam Thompson",
+    authorAvatar: "/images/author-2.jpg",
+    createdAt: "March 10, 2023",
+    cover: "/images/blog-4.jpg",
+  },
+  {
+    id: 5,
+    title: "Loaded BBQ Baked Potatoes",
+    category: "cooking",
+    subCategory: ["bbq", "food", "lifestyle"],
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.",
+    authorName: "Isabella Chen",
+    authorAvatar: "/images/author-5.jpg",
+    createdAt: "Jan 03, 2024",
+    cover: "/images/blog-5.jpg",
+  },
+  {
+    id: 6,
+    title: "Beyond the Beach",
+    category: "travel",
+    subCategory: ["beaches", "sea", "holidays"],
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.",
+    authorName: "Lucas Foster",
+    authorAvatar: "/images/author-6.jpg",
+    createdAt: "Dec 23, 2023",
+    cover: "/images/blog-6.png",
+  },
+  {
+    id: 7,
+    title: "Explore The Tech World",
+    category: "technology",
+    subCategory: ["technology", "computer", "coding"],
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.",
+    authorName: "Lucas Foster",
+    authorAvatar: "/images/author-2.jpg",
+    createdAt: "Dec 23, 2023",
+    cover: "/images/blog-2.jpg",
+  },
+];
